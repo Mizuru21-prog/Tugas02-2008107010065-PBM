@@ -4,6 +4,6 @@
 - NIM: 2008107010065
 
 ### Tampilan yang ada dalam repo ini
-![image.png]( {https://github.com/Mizuru21-prog/Tugas02-2008107010065-PBM/blob/a119072fe714f9298801d5c053f93a49bb9c866f/dokumentasi/1.jpeg} )
-![image.png]( {dokumentasi/2.jpeg} )
-![image.png]( {dokumentasi/3.jpeg} )
+![1](https://user-images.githubusercontent.com/72111231/221695148-c01950d0-babb-446f-b769-15e33009bc2c.jpeg)
+![2](https://user-images.githubusercontent.com/72111231/221695154-0f5f033d-8d44-43d3-8973-ae1fbbdc7f71.jpeg)
+![3](https://user-images.githubusercontent.com/72111231/221695167-5addcc2d-7b8a-49a4-b7b1-afc5f9122a5d.jpeg)
