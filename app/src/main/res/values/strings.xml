@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tugas 02 - Anas Naufal Al-kiram</string>
+    <string name="informatika">Pemrograman Berbasis Mobile</string>
+    <string name="lorem_ipsum">Pemrograman Berbasis Mobile adalah sebuah teknologi yang memungkinkan developer untuk membuat aplikasi yang dapat dijalankan pada perangkat mobile seperti smartphone atau tablet.
+        Aplikasi yang dibuat dapat memanfaatkan berbagai fitur pada perangkat mobile seperti kamera, GPS, dan sensor lainnya untuk memberikan pengalaman yang lebih interaktif dan menyenangkan bagi pengguna.
+        Pemrograman Berbasis Mobile menggunakan bahasa pemrograman tertentu seperti Java, Swift, atau Kotlin untuk membangun aplikasi yang dapat diinstal pada platform mobile seperti Android atau iOS.
+        Dengan semakin berkembangnya teknologi mobile, Pemrograman Berbasis Mobile menjadi semakin penting dan dibutuhkan oleh banyak perusahaan untuk mengembangkan aplikasi mobile yang inovatif dan kompetitif di pasar.
+        Pemrograman Berbasis Mobile (PBM) adalah salah satu bidang penting dalam ilmu komputer, terutama dalam pengembangan aplikasi di era digital saat ini. Ada beberapa alasan mengapa PBM penting dipelajari ketika kuliah:
+        1. Permintaan pasar: Permintaan untuk aplikasi seluler terus meningkat, baik untuk keperluan bisnis maupun untuk penggunaan pribadi. Dalam menghadapi permintaan pasar yang semakin meningkat ini, kemampuan untuk mengembangkan aplikasi seluler menjadi sangat penting.
+        2. Inovasi teknologi: Teknologi dalam pengembangan aplikasi seluler terus berkembang pesat. Memahami dan menguasai teknologi-teknologi baru dalam pengembangan aplikasi seluler dapat membantu Anda menghasilkan solusi kreatif dan inovatif dalam menyelesaikan masalah.
+        3. Peluang karir: Pengembangan aplikasi seluler merupakan bidang yang berkembang pesat dan menawarkan banyak peluang karir. Dalam mempelajari PBM, Anda dapat memperoleh keterampilan dan pengetahuan yang dibutuhkan untuk memulai karir di bidang ini.
+        4. Keterampilan yang dicari: Keterampilan dalam PBM termasuk dalam daftar keterampilan yang dicari oleh banyak perusahaan teknologi. Mengetahui dan menguasai PBM dapat meningkatkan daya saing Anda di pasar kerja.
+        5. Pengembangan diri: Selain mengembangkan keterampilan teknis, mempelajari PBM juga dapat membantu Anda mengembangkan keterampilan seperti pemecahan masalah, kerja tim, dan kreativitas.
+        Dengan demikian, PBM merupakan bidang penting yang perlu dipelajari oleh mahasiswa ilmu komputer dan mahasiswa di bidang terkait. Dalam mempelajari PBM, Anda dapat memperoleh keterampilan dan pengetahuan yang dapat membantu Anda dalam pengembangan aplikasi seluler dan meningkatkan daya saing Anda di pasar kerja.
+    </string>
+</resources>
